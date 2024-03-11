@@ -1,0 +1,8 @@
+INFO    02/13/23 Monday 20:59:08 test.txt file is open
+INFO    02/13/23 Monday 20:59:08 test.txt file is closed
+INFO    02/13/23 Monday 21:01:07 test.txt file is open
+INFO    02/13/23 Monday 21:01:07 test.txt file read
+INFO    02/13/23 Monday 21:01:07 test.txt file is closed
+INFO    02/13/23 Monday 21:01:15 test.txt file is open
+DEBUG   02/13/23 Monday 21:01:15 test.txt file edit
+INFO    02/13/23 Monday 21:01:15 test.txt file is closed
